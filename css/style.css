@@ -1,0 +1,19 @@
+.four{
+  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase;
+}
+
+.four h3 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 50px;
+  color: white;
+  transition: .5s;
+  cursor: pointer;
+}
+
+.four h3:hover{
+  font-size: 60px;
+}
